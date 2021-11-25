@@ -6,7 +6,7 @@
 * REST API で CRUD 操作
 * Swagger UI で Open API ドキュメント（API 仕様書）作成
 
-**API一覧**
+#### API一覧
 
 | HTTPメソッド | エンドポイント         | 処理          |
 |------------|----------------------|---------------|
@@ -21,24 +21,24 @@
 
 実装した REST API を Swagger UI で操作します。
 
-### Swagger UI トップページ
+#### Swagger UI トップページ
 <img width="600" src="https://user-images.githubusercontent.com/59589496/134793692-b45ce809-9954-4d49-b598-82e51a2d0b29.png">
 
-### 登録
+#### 登録
 <img width="600" src="https://user-images.githubusercontent.com/59589496/134793932-1261a5af-db03-4e93-b037-33e4a3c8d691.png">
 
 ※ 同様にタスクを3件登録  
 
-### 全件取得
+#### 全件取得
 <img width="600" src="https://user-images.githubusercontent.com/59589496/134794047-ede813f8-a930-45f2-8a1a-a3728220e4e0.png">
 
-### 1件取得
+#### 1件取得
 <img width="600" src="https://user-images.githubusercontent.com/59589496/134794144-429fa314-d7d9-46f2-95de-1350b08fac79.png">
 
-### 更新
+#### 更新
 <img width="600" src="https://user-images.githubusercontent.com/59589496/134794274-cd7908a9-6d79-45eb-af3b-5d059518a15b.png">
 
-### 削除
+#### 削除
 <img width="600" src="https://user-images.githubusercontent.com/59589496/134794349-6315a19e-026a-4ec3-b93f-0af2acd1d5bc.png">
 
 フォルダ構成
